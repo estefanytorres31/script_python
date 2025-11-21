@@ -1,3 +1,6 @@
 venv
 .venv
 .trae
+__pycache__
+*.pyc
+*.pyo
